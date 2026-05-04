@@ -11,7 +11,14 @@ function Main(){
 
             <section>
                 <h2>Interests</h2>
-                <p>Gymaholic, Music, Anime, Football and Gaming</p>
+                <ul>
+                    <li>Gym</li>
+                    <li>Anime</li>
+                    <li>Football</li>
+                    <li>Gaming</li>
+                    <li>Coding</li>
+                </ul>
+            
             </section>
 
             </main>
