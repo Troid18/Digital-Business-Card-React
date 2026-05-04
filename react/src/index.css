@@ -1,3 +1,6 @@
+*{
+  box-sizing: border-box;
+}
 body{
   padding: 0;
   margin: 0;
@@ -71,6 +74,36 @@ a{
 .linkedin{
     background: #5093E2;
     align-self: flex-end;
+}
+
+main{
+  padding: .5em 1em;
+}
+
+
+footer{
+   background: #1A1B21;
+
+}
+ 
+
+.foot{
+  width: 50%;
+  padding: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  
+}
+
+
+footer .icon{
+  width: 40%;
+  object-fit: cover;
+  background: #918E9B;
+  border-radius: 3px;
+  
 }
 
 @media (min-width: 500px){
